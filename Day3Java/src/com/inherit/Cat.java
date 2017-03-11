@@ -11,7 +11,7 @@ public class Cat extends Animal {
 			System.out.println(super.getTypeOfAnimal() + " Can Walk");
 		}
 		else{
-			System.out.println(super.getTypeOfAnimal() + " cannot walk");
+			System.out.println(super.getTypeOfAnimal() + " cannot walk with me");
 		}
 	}
 
